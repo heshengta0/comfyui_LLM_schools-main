@@ -1,0 +1,5 @@
+[GENERAL]
+language=#zh_CN or en_US
+
+[TOKEN]
+HF_token =hf_token
